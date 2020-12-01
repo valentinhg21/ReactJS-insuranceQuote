@@ -3,7 +3,7 @@
 This is a project where you know the cost of a car quote.
 
 Preview
-https://kind-wing-bfc3c8.netlify.app/
+https://insurancequotejs.netlify.app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
